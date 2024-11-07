@@ -2,10 +2,8 @@
 
 ## Présentation 
 Ce repository contient le code pour un problème de regression et de classification. Les données sont disponibles sur les Kaggle suivants: 
-* Regression :
- - [Page de la compétition Kaggle - NYC taxis tips](https://www.kaggle.com/competitions/nyc-taxis-tips/overview)
-* Classification :
- - [Page de la compétition Kaggle - Forest Cover Type](https://www.kaggle.com/competitions/forest-cover-type-orsay/overview)
+* Regression : [Page de la compétition Kaggle - NYC taxis tips](https://www.kaggle.com/competitions/nyc-taxis-tips/overview)
+* Classification : [Page de la compétition Kaggle - Forest Cover Type](https://www.kaggle.com/competitions/forest-cover-type-orsay/overview)
 
 
 ## Chemin vers les données 
